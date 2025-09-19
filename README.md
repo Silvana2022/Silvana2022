@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Silvana2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning análise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Terminei o curso Cibersegurança do Cesar School.
+- 🌱 Estou atualmente participando do bootcamp Santander Code Girls - 2025.
+
 
 <!---
 Silvana2022/Silvana2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
